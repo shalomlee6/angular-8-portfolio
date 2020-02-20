@@ -99,7 +99,7 @@ export const projects: Project[] = [
                     // tslint:disable-next-line: max-line-length
                     present: '',
                     img: [
-                        'assets/img/react/react-tube.jpg',
+                        'assets/img/react/react-tube.JPG',
 
                     ],
                     ico: {
@@ -118,7 +118,7 @@ export const projects: Project[] = [
                     // tslint:disable-next-line: max-line-length
                     present: '',
                     img: [
-                        'assets/img/weather/day.jpg',
+                        'assets/img/weather/day.JPG',
 
                     ],
                     ico: {
